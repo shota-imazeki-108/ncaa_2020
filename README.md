@@ -1,4 +1,5 @@
 # [Google Cloud & NCAA® ML Competition 2020-NCAAW](https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-womens-tournament/data)
+## Apply Machine Learning to NCAA® March Madness®
 ---
 ## これは何か
 - Google Cloud & NCAA® ML Competition(通称、バスケコンペ)にて使用したコード類をまとめました。
@@ -13,6 +14,10 @@
 ## データ
 - [こちらから](https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-womens-tournament/data)
 - 規約に同意する必要あり
+
+## 結果
+- コロナにより大会自体が中止に...モデル自体はいいものが組めたと思うので、来年リベンジ！
+
 
 ## おまけ
 - 本コンペで使用したmlflowについて、qiitaにまとめました。
